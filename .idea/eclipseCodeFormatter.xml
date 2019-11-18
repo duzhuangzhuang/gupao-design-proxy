@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1573627978146" />
+        <option name="importOrder" value="E:/代码格式化模板/Eclipse_CodeFormatter.xml" />
+        <option name="importOrderConfigFilePath" value="E:/代码格式化模板/CodeTemplates.xml" />
+        <option name="importOrderFromFile" value="true" />
+        <option name="name" value="codeFormatter." />
+        <option name="pathToConfigFileJava" value="E:/代码格式化模板/Eclipse_CodeFormatter.xml" />
+        <option name="selectedJavaProfile" value="eReading代码样式" />
+      </Settings>
+    </option>
+  </component>
+</project>

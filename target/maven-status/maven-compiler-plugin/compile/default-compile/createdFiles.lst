@@ -1,0 +1,14 @@
+com\dzz\proxy\dzzproxy\DzzInvocationHandler.class
+com\dzz\proxy\staticproxy\StaticProxyTest.class
+com\dzz\proxy\dunamicproxy\jdkproxy\JdkMeiPo.class
+com\dzz\proxy\dzzproxy\DzzMeiPo.class
+com\dzz\proxy\dunamicproxy\cglibproxy\CglibProxyTest.class
+com\dzz\proxy\staticproxy\Father.class
+com\dzz\proxy\dunamicproxy\cglibproxy\CglibMeiPo.class
+com\dzz\proxy\dunamicproxy\jdkproxy\Girl.class
+com\dzz\proxy\dzzproxy\DzzProxy.class
+com\dzz\proxy\Person.class
+com\dzz\proxy\dunamicproxy\jdkproxy\JdkProxyTest.class
+com\dzz\proxy\dzzproxy\ProxyTest.class
+com\dzz\proxy\dzzproxy\DzzClassLoader.class
+com\dzz\proxy\staticproxy\Son.class
